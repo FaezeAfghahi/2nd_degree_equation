@@ -1,0 +1,8 @@
+build a 2nd degree equation from their roots
+
+ax^2 +bx +c =0
+
+hint: 
+
+Multiply the roots = x1 * x2 = c
+Sum of roots = x1 + x2 = -b
